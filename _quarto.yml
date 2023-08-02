@@ -213,6 +213,10 @@ website:
                     text: Examples for OGC
               - href: "APIs/SentinelHub/ApiReference.qmd"
                 text: "API Reference"
+              - section: "Jupyter notebooks"
+                contents:
+              - href: "notebook-samples/sentinelhub/migration_from_scihub_guide.ipynb"
+                text: "Migration from SciHub"
       - section: "Applications"
         href: Applications.md
         contents:
